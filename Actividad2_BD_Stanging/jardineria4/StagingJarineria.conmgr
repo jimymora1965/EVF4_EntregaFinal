@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="VFWIN1.StagingJarineria"
+  DTS:DTSID="{D228CFAA-CF7B-4AA5-868B-7ED425206913}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=VFWIN1;Initial Catalog=StagingJarineria;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_Jardineria-{D228CFAA-CF7B-4AA5-868B-7ED425206913}VFWIN1.StagingJarineria;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
